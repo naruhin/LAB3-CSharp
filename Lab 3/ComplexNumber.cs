@@ -8,6 +8,7 @@ namespace Lab_3
 {
     class ComplexNumber
     {
+        //ыыыыыы
         private double r;
         private double fi;
         private double a;
